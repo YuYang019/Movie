@@ -1,0 +1,46 @@
+.movie_item {
+  float: left;
+  display: flex;
+  width: 47%;
+  margin: 15px;
+  border: 1px solid #efefef;
+}
+
+.movie_item .item_left,.item_right {
+  padding: 15px;
+}
+
+.movie_item .item_left img {
+  width: 185px;
+  height: 278px;
+}
+
+.movie_item .item_right {
+  padding-left: 0;
+  width: 100%;
+}
+
+.movie_item .overview {
+  height: 170px;
+  font-size: 12px;
+  overflow: hidden;
+}
+
+.movie_item .title {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.movie_item .rate .number {
+  display: inline-block;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.movie_item .genres {
+  font-size: 12px;
+  margin: 8px 0;
+}

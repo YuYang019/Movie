@@ -1,0 +1,11 @@
+.result .list {
+  overflow: hidden;
+  margin: 15px auto;
+  width: 80%;
+}
+
+.result .tip {
+  margin: 40px 0 25px;
+  font-weight: bold;
+  font-size: 16px;
+}

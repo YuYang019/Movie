@@ -1,0 +1,945 @@
+[{
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/mSZADd1N0wWkkNJmwcpYAq93bke.jpg",
+    "belongs_to_collection": null,
+    "budget": 90000000,
+    "genres": [{
+      "id": 878,
+      "name": "科幻"
+    }],
+    "homepage": "",
+    "id": 9482,
+    "imdb_id": "tt0113492",
+    "original_language": "en",
+    "original_title": "Judge Dredd",
+    "overview": "2139年，科学高度发达。凭借高科技武器和过人身手，爵德成了梅洛城法官、警察和行刑人于一身的判官战警，他发现罪犯可以马上逮捕、马上判刑，死刑的话还可以马上执行。就是这样一个四出惩治罪恶的判官，这次竟然被诬蔑成杀人犯。幸好有主席法官尽力相助，爵德才幸免一死，不过他被逐出了梅洛城。不甘心含冤受屈的爵德冒险潜回了梅洛城调查整件事的来龙去脉，犯罪分子里戈逐渐浮出了水面……",
+    "popularity": 11.661,
+    "poster_path": "/r17S4XlQ3Jq5U1KRovFUwU8P4aG.jpg",
+    "production_companies": [{
+      "id": 1504,
+      "logo_path": null,
+      "name": "Cinergi Pictures Entertainment",
+      "origin_country": ""
+    }, {
+      "id": 915,
+      "logo_path": "/xXojkyRWFZ0JTJyjiu13ThKeFbz.png",
+      "name": "Hollywood Pictures",
+      "origin_country": ""
+    }],
+    "production_countries": [{
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "1995-06-30",
+    "revenue": 113493481,
+    "runtime": 96,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }],
+    "status": "Released",
+    "tagline": "",
+    "title": "特警判官",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 1109
+  },
+  "id": 173,
+  "poster_url": "http://image.tmdb.org/t/p/w185/r17S4XlQ3Jq5U1KRovFUwU8P4aG.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/AsQfq68MrMt5Itb8wTIzkLLGGoI.jpg",
+    "belongs_to_collection": null,
+    "budget": 11000000,
+    "genres": [{
+      "id": 35,
+      "name": "喜剧"
+    }, {
+      "id": 18,
+      "name": "剧情"
+    }],
+    "homepage": "",
+    "id": 10377,
+    "imdb_id": "tt0104952",
+    "original_language": "en",
+    "original_title": "My Cousin Vinny",
+    "overview": "　　比尔（拉尔夫·马奇奥 Ralph Macchio 饰）和斯坦（米歇尔·维特菲尔德 Mitchell Whitfield 饰）是一对损友，此时，他们正驾驶着汽车前往学校。这一段旅程注定不会平静，误打误撞之中，两人竟然被指控谋杀。眼看着审理日即将到来，比尔和斯坦找到了刚刚毕业的半吊子律师文森特（乔·佩西 Joe Pesci 饰），请求他为他们辩护。  　　令两人万万没有想到的是，文森特在法庭上的出格表现不仅没有为他们洗清罪名，文森特自己反而因为“蔑视法庭罪”而遭到监禁，而经历了如此挫折后，文森特一蹶不振，辩护水平更是大打折扣。一番波折之后，比尔和斯坦好不容易洗脱了牢狱之灾重获自由，但两人明白，只要文森特存在一天，他们的厄运就会延续一天。 ©豆瓣",
+    "popularity": 10.352,
+    "poster_path": "/zcd2U5BAP0rYOucfcj8nE4VVVKC.jpg",
+    "production_companies": [{
+      "id": 89303,
+      "logo_path": null,
+      "name": "Palo Vista Productions",
+      "origin_country": ""
+    }, {
+      "id": 89304,
+      "logo_path": null,
+      "name": "Peter V. Miller Investment Corp.",
+      "origin_country": ""
+    }, {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }],
+    "production_countries": [{
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "1992-03-13",
+    "revenue": 64088552,
+    "runtime": 120,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }],
+    "status": "Released",
+    "tagline": "智勇急转弯",
+    "title": "我的表兄维尼",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 618
+  },
+  "id": 2302,
+  "poster_url": "http://image.tmdb.org/t/p/w185/zcd2U5BAP0rYOucfcj8nE4VVVKC.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/1Slt26IGf2XHqv8xjEJ7LMZqCYb.jpg",
+    "belongs_to_collection": {
+      "backdrop_path": "/d8duYyyC9J5T825Hg7grmaabfxQ.jpg",
+      "id": 10,
+      "name": "星球大战（系列）",
+      "poster_path": "/iTQHKziZy9pAAY4hHEDCGPaOvFC.jpg"
+    },
+    "budget": 120000000,
+    "genres": [{
+      "id": 12,
+      "name": "冒险"
+    }, {
+      "id": 28,
+      "name": "动作"
+    }, {
+      "id": 878,
+      "name": "科幻"
+    }],
+    "homepage": "",
+    "id": 1894,
+    "imdb_id": "tt0121765",
+    "original_language": "en",
+    "original_title": "Star Wars: Episode II - Attack of the Clones",
+    "overview": "绝地武士战胜西斯学徒后十年，银河共和国再次面临威胁，前绝地武士杜库伯爵（克里斯托弗·李饰）鼓动数千星系与共和国决裂，并筹建大批机器人军队为政变做准备。纳布星的阿米达拉（娜塔丽·波特曼饰）结束女王任期后以议员身份抵达考路斯坎星，决意为组建共和军队投出关键一票。欧比·旺·肯诺比（伊万·麦克格雷格饰）携长大了的阿纳金（海登·克里斯滕森饰）奉命保护阿米达拉的安全。在阿纳金护送阿米达拉返回纳布星避难的途中，二人情愫暗生，决定共同前往塔图因星寻找阿纳金之母。与此同时，欧比·旺追查刺客行迹一路深入吉诺西斯星，发现了杜库伯爵的阴谋，自己却深陷囹圄，危在旦夕……本片获2003年第75界奥斯卡最佳视觉效果奖提名。",
+    "popularity": 20.711,
+    "poster_path": "/2vcNFtrZXNwIcBgH5e2xXCmVR8t.jpg",
+    "production_companies": [{
+      "id": 1,
+      "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
+      "name": "Lucasfilm",
+      "origin_country": "US"
+    }],
+    "production_countries": [{
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "2002-05-15",
+    "revenue": 649398328,
+    "runtime": 142,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }],
+    "status": "Released",
+    "tagline": "绝地武士要远离愤怒、仇恨、爱情。",
+    "title": "星球大战前传二：克隆人的进攻",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 6964
+  },
+  "id": 5378,
+  "poster_url": "http://image.tmdb.org/t/p/w185/2vcNFtrZXNwIcBgH5e2xXCmVR8t.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/6fqmcCVci3cSBCgJw8NGXE4ST8G.jpg",
+    "belongs_to_collection": null,
+    "budget": 400000,
+    "genres": [{
+      "id": 12,
+      "name": "冒险"
+    }, {
+      "id": 35,
+      "name": "喜剧"
+    }, {
+      "id": 14,
+      "name": "奇幻"
+    }],
+    "homepage": "http://www.sonypictures.com/cthe/montypython/",
+    "id": 762,
+    "imdb_id": "tt0071853",
+    "original_language": "en",
+    "original_title": "Monty Python and the Holy Grail",
+    "overview": "带着敲椰子壳的仆人，亚瑟王（格雷厄姆·查普曼 Graham Chapman 饰）假装骑着马寻找骑士和城堡，一路看尽民不聊生的景象，和各种鸡同鸭讲的民众交流，最后招揽到一群圆桌骑士。他们一起假装骑着马，到了卡米洛特城堡，在城堡外，他们遇见天上浮现的上帝，要求他们去寻找圣杯。他们试图用“木獾记”攻陷一座法国人的城堡，但是却忘记藏身在木獾里，最终被法国人打得落花流水。经历失败的亚瑟王与骑士们开始分头行动，寻找圣杯的任务意义重大，更多不靠谱的人和事一路等待这群不靠谱的骑士们……  　　本片是唯一一部进入IMDB前50排名的“无厘头”电影。片中“巨蟒团”六名核心成员每人出演了4-10个角色，包揽片中大部分角色。",
+    "popularity": 18.219,
+    "poster_path": "/8AVb7tyxZRsbKJNOTJHQZl7JYWO.jpg",
+    "production_companies": [{
+      "id": 416,
+      "logo_path": null,
+      "name": "Python (Monty) Pictures Limited",
+      "origin_country": ""
+    }, {
+      "id": 463,
+      "logo_path": null,
+      "name": "Michael White Productions",
+      "origin_country": ""
+    }, {
+      "id": 464,
+      "logo_path": null,
+      "name": "National Film Trustee Company",
+      "origin_country": ""
+    }],
+    "production_countries": [{
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }],
+    "release_date": "1975-05-25",
+    "revenue": 5028948,
+    "runtime": 91,
+    "spoken_languages": [{
+      "iso_639_1": "fr",
+      "name": "Français"
+    }, {
+      "iso_639_1": "la",
+      "name": "Latin"
+    }, {
+      "iso_639_1": "en",
+      "name": "English"
+    }],
+    "status": "Released",
+    "tagline": "",
+    "title": "巨蟒与圣杯",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 2948
+  },
+  "id": 1136,
+  "poster_url": "http://image.tmdb.org/t/p/w185/8AVb7tyxZRsbKJNOTJHQZl7JYWO.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/y2qAjM37QgatWeG84DDtwsZuMW.jpg",
+    "belongs_to_collection": {
+      "backdrop_path": "/9FBwqcd9IRruEDUrTdcaafOMKUq.jpg",
+      "id": 10194,
+      "name": "玩具总动员（系列）",
+      "poster_path": "/7G9915LfUQ2lVfwMEEhDsn3kT4B.jpg"
+    },
+    "budget": 200000000,
+    "genres": [{
+      "id": 16,
+      "name": "动画"
+    }, {
+      "id": 10751,
+      "name": "家庭"
+    }, {
+      "id": 35,
+      "name": "喜剧"
+    }],
+    "homepage": "http://disney.go.com/toystory/",
+    "id": 10193,
+    "imdb_id": "tt0435761",
+    "original_language": "en",
+    "original_title": "Toy Story 3",
+    "overview": "安迪已经高中毕业了，即将成为大学生，而他的玩具，包括伍迪、巴斯光年都面临将要被放在阁楼上的命运。在他们被放到阁楼之前，却意外的被丢弃，并被一个清理垃圾的人所捡起。玩具们发现自己被带到了一个当地的日间托儿所，他们必须要在那儿想办法面对一群调皮且粗鲁的学龄前小孩。胡迪打算要带领他的朋友们逃离托儿所，并为自己和他们找到一个新的安身之处。但巴斯光年在一次尝试逃离的行动中受到了损伤，使得整件事情变得更复杂了……",
+    "popularity": 24.899,
+    "poster_path": "/mMltbSxwEdNE4Cv8QYLpzkHWTDo.jpg",
+    "production_companies": [{
+      "id": 3,
+      "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+      "name": "Pixar",
+      "origin_country": "US"
+    }],
+    "production_countries": [{
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "2010-06-16",
+    "revenue": 1066969703,
+    "runtime": 103,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }, {
+      "iso_639_1": "es",
+      "name": "Español"
+    }],
+    "status": "Released",
+    "tagline": "",
+    "title": "玩具总动员3",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 8068
+  },
+  "id": 78499,
+  "poster_url": "http://image.tmdb.org/t/p/w185/mMltbSxwEdNE4Cv8QYLpzkHWTDo.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/pP2a4MBQbIeZMbErBWMjxTT5Npb.jpg",
+    "belongs_to_collection": {
+      "backdrop_path": "/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg",
+      "id": 264,
+      "name": "回到未来（系列）",
+      "poster_path": "/oRa6N7uB6Z6X3j06yygjhQqzGfx.jpg"
+    },
+    "budget": 40000000,
+    "genres": [{
+      "id": 12,
+      "name": "冒险"
+    }, {
+      "id": 35,
+      "name": "喜剧"
+    }, {
+      "id": 10751,
+      "name": "家庭"
+    }, {
+      "id": 878,
+      "name": "科幻"
+    }],
+    "homepage": "http://www.backtothefuture.com/movies/backtothefuture3",
+    "id": 196,
+    "imdb_id": "tt0099088",
+    "original_language": "en",
+    "original_title": "Back to the Future Part III",
+    "overview": "马丁（麦克·J·福克斯饰）从他生活的八十年代来到了1955年，根据好朋友埃米·布朗博士（克里斯托弗·劳埃德饰）于1885年留下的信件，马丁找到了博士研制的时空穿梭机。本以为可以乘坐着这台机器回到未来，马丁却意外发现了博士的墓碑，原来他在留下那封信后不久便被人杀害。为了拯救埃米博士，马丁乘坐时空穿梭机来到了1885年的美国西部。马丁能否改变历史，拯救博士的生命？二人能否成功回到未来？“回到未来三部曲”完结篇，一起与马丁乘坐时空穿梭机畅游时间。",
+    "popularity": 9.877,
+    "poster_path": "/6DmgPTZYaug7QNDjOhUDWyjOQDl.jpg",
+    "production_companies": [{
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }, {
+      "id": 56,
+      "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    }, {
+      "id": 20448,
+      "logo_path": null,
+      "name": "U-Drive Productions",
+      "origin_country": ""
+    }],
+    "production_countries": [{
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "1990-05-25",
+    "revenue": 244527583,
+    "runtime": 118,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }],
+    "status": "Released",
+    "tagline": "他们最终挽救了最好的旅行，但这一次他们或许走得太远。",
+    "title": "回到未来3",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 5266
+  },
+  "id": 2012,
+  "poster_url": "http://image.tmdb.org/t/p/w185/6DmgPTZYaug7QNDjOhUDWyjOQDl.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/aoy8HmDvoGPwWiGnQKFErg7FVYB.jpg",
+    "belongs_to_collection": null,
+    "budget": 21000000,
+    "genres": [{
+      "id": 35,
+      "name": "喜剧"
+    }, {
+      "id": 18,
+      "name": "剧情"
+    }],
+    "homepage": "",
+    "id": 9428,
+    "imdb_id": "tt0265666",
+    "original_language": "en",
+    "original_title": "The Royal Tenenbaums",
+    "overview": "罗伊·特伦鲍姆Royal Tenenbaum（吉恩·哈克曼 Gene Hackman 饰）45岁那年夫妻分居，他一个人去住酒店，独自抚养孩子的妻子艾瑟琳Etheline（安杰丽卡·休斯顿 Anjelica Huston 饰）把所有重心都放在了孩子才能的培养方面。不负众望，他们的三个孩子个个都是天生异禀的奇才，她以此写作了一本书——《天才一族》。 大儿子查斯Chas（本·斯蒂勒 Ben Stiller 饰）12岁时就对生意运筹帷幄，初中就购置不动产，对财务有着超同寻常的理解。二女儿玛葛Margot（格温妮斯·帕特洛 Gwyneth Paltrow 饰）两岁时被收养，这个话题被父亲叨叨终身以致玛葛Matgot有点神经质地耿耿于怀。这个天才剧作家9岁时就赢得了勇士奖。里奇Richie（卢克·威尔逊 Luke Wilson 饰）从三年级起就是冠军网球选手，业余喜爱组乐队和收藏汽车模型以及绘画，17岁转做职业选手的他连续三年获得美国公开赛冠军。 罗伊与妻子离了婚后离开了家，时间荏苒，20年过去了，三个天才孩子长大成人。查斯Chas在一次飞机失事失去妻子后，变得神经兮兮，整天替两个儿子的安全而担忧，惶惶度日；玛葛Matgot貌似淑女，其实是个有20年烟龄的“烟枪”，并且已多年没有出版过作品，和做神经科医生的丈夫维持着毫无激情可言的婚姻生活，整日把自己锁在浴室不与丈夫交谈；里奇Richie在大海上准备一年的航行，自在一次大赛中失利后就一蹶不振，如今靠在世界各地航海来打发时间。这一切都被Royal的一个突然消息中止：他患上了癌症只剩下6个礼拜的生命，他想和家人共度最后的时光。 原来是离家多年的罗伊开始想念起自己的妻儿，热切渴望重归家庭怀抱享受天伦之乐。为了达到这个目的，他宣布已被医生诊断为胃癌，而且只剩下六个星期的生命，这个消息令分离的家人又重新团聚到一起，这天才一家再度聚首，有趣的事层出不穷。尽管开始的时候大家还是格格不入，但大家的关系却在悄悄地发生着微妙的变化，当家庭从新拥有凝聚力之后，特伦又该怎样解释自己的“病情”呢？",
+    "popularity": 11.036,
+    "poster_path": "/sNlz540u565f0fGK6CB0379cIJE.jpg",
+    "production_companies": [{
+      "id": 9195,
+      "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }, {
+      "id": 23449,
+      "logo_path": null,
+      "name": "American Empirical Pictures",
+      "origin_country": "US"
+    }],
+    "production_countries": [{
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "2001-10-12",
+    "revenue": 71441250,
+    "runtime": 110,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }, {
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }],
+    "status": "Released",
+    "tagline": "",
+    "title": "特伦鲍姆一家",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 2207
+  },
+  "id": 4979,
+  "poster_url": "http://image.tmdb.org/t/p/w185/sNlz540u565f0fGK6CB0379cIJE.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/2kkyt0FLROrXt41IgSdE7goCFNQ.jpg",
+    "belongs_to_collection": {
+      "backdrop_path": "/JhGydj4q5y8MoWZFyj15yKNrzC.jpg",
+      "id": 1575,
+      "name": "洛奇（系列）",
+      "poster_path": "/O66XFv0mU6JKfmrgkoTQLwbFDG.jpg"
+    },
+    "budget": 1000000,
+    "genres": [{
+      "id": 18,
+      "name": "剧情"
+    }],
+    "homepage": "",
+    "id": 1366,
+    "imdb_id": "tt0075148",
+    "original_language": "en",
+    "original_title": "Rocky",
+    "overview": "　　洛基•巴尔博厄(西尔维斯特•史泰龙 Sylvester Stallone 饰)是费城的过气拳击手。他空有拳击热忱，却只混杂于三流拳击赛中。一天，他对售货员艾黛丽安（塔里亚•希雷Talia Shire 饰）一见倾心，虽然这个姑娘长相一般，性格内向，却毫不阻碍洛奇对她爱得炽热。 　　爱情得意，事业也开始一路畅通。为了庆祝美国建国200周年，当地举办了一个拳击比赛，胜出者将获得15万美元的高额奖金。美国一个拳击巨星在比赛中受了伤，主办方选中了洛奇去上演一场“灰姑娘”式的比赛，大敌当前的同时，也是洛奇事业转机、大显身手的良机。洛奇在赛场上苦撑15回合，在面肿血流之际，会不会有奇迹的发生？",
+    "popularity": 16.528,
+    "poster_path": "/i5xiwdSsrecBvO7mIfAJixeEDSg.jpg",
+    "production_companies": [{
+      "id": 8880,
+      "logo_path": "/fE7LBw7Jz8R29EABFGCvWNriZxN.png",
+      "name": "Winkler Films",
+      "origin_country": ""
+    }],
+    "production_countries": [{
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "1976-11-21",
+    "revenue": 117235147,
+    "runtime": 119,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }],
+    "status": "Released",
+    "tagline": "",
+    "title": "洛奇",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 3574
+  },
+  "id": 1954,
+  "poster_url": "http://image.tmdb.org/t/p/w185/i5xiwdSsrecBvO7mIfAJixeEDSg.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/f6ljQGv7WnJuwBPty017oPWfqjx.jpg",
+    "belongs_to_collection": {
+      "backdrop_path": "/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg",
+      "id": 263,
+      "name": "蝙蝠侠：黑暗骑士（系列）",
+      "poster_path": "/bqS2lMgGkuodIXtDILFWTSWDDpa.jpg"
+    },
+    "budget": 250000000,
+    "genres": [{
+      "id": 28,
+      "name": "动作"
+    }, {
+      "id": 80,
+      "name": "犯罪"
+    }, {
+      "id": 18,
+      "name": "剧情"
+    }, {
+      "id": 53,
+      "name": "惊悚"
+    }],
+    "homepage": "http://www.thedarkknightrises.com/",
+    "id": 49026,
+    "imdb_id": "tt1345836",
+    "original_language": "en",
+    "original_title": "The Dark Knight Rises",
+    "overview": "　　蝙蝠侠布鲁斯·韦恩（克里斯蒂安·贝尔 Christian Bale 饰）因背负谋杀哈维（艾伦·艾克哈特 Aaron Eckhart 饰）的罪名，被警方通缉，在哥谭市销声匿迹。八年间，哥谭市在戈登警长（加里·奥德曼 Gary Oldman 饰）的努力下有效地遏制了犯罪活动。然而，这看似平静的状态被恐怖分子贝恩（汤姆·哈迪 Tom Hardy 饰）的出现打破，他利用猫女（安妮·海瑟薇 Anne Hathaway 饰）使韦恩集团面临破财，布鲁斯被赶出董事会。为了保证集团投资的能源项目不被坏人利用，布鲁斯帮助米兰达（玛丽昂·歌迪亚 Marion Cotillard 饰）成为董事会主席。贝恩接下来一连串的精密计划使哥谭市陷入孤绝之境，毁灭之日指日可待。布鲁斯只能再次肩负起拯救哥谭的重任…",
+    "popularity": 30.094,
+    "poster_path": "/6iYtobqPulrftpftulirogjfGHC.jpg",
+    "production_companies": [{
+      "id": 9996,
+      "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+      "name": "Syncopy",
+      "origin_country": "GB"
+    }, {
+      "id": 923,
+      "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+      "name": "Legendary Entertainment",
+      "origin_country": "US"
+    }, {
+      "id": 9993,
+      "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    }, {
+      "id": 174,
+      "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }],
+    "production_countries": [{
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "2012-07-16",
+    "revenue": 1084939099,
+    "runtime": 165,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }],
+    "status": "Released",
+    "tagline": "战火将起",
+    "title": "蝙蝠侠：黑暗骑士崛起",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 13573
+  },
+  "id": 91529,
+  "poster_url": "http://image.tmdb.org/t/p/w185/6iYtobqPulrftpftulirogjfGHC.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/kywkOlRpYtfVlar41R1s8lO46vD.jpg",
+    "belongs_to_collection": {
+      "backdrop_path": "/5kHVblr87FUScuab1PVSsK692IL.jpg",
+      "id": 1570,
+      "name": "虎胆龙威（系列）",
+      "poster_path": "/xhnb5lVfwE7NHycdPNdIxHx7kZi.jpg"
+    },
+    "budget": 70000000,
+    "genres": [{
+      "id": 28,
+      "name": "动作"
+    }, {
+      "id": 53,
+      "name": "惊悚"
+    }],
+    "homepage": "https://www.foxmovies.com/movies/die-hard-2",
+    "id": 1573,
+    "imdb_id": "tt0099423",
+    "original_language": "en",
+    "original_title": "Die Hard 2",
+    "overview": "------圣诞前夕，麦卡伦正在华盛顿的机场等待妻子乘飞机归来过节。然而无意中他却发现了一个重大的阴谋：被议会解职的特种部队施上校正率领部下准备解救被引渡的中美洲毒枭艾将军。麦卡伦将此事告知了机场警卫队的罗队长，但后者的官僚作风和愚蠢却使这一切未能得到阻止。施上校带领部下占领了机场附近的一座小教堂，设置了一个飞行控制中心，并切断了机场控制塔与空中的一切联系，使众多的客机无法降落。而麦卡伦的妻子霍莉此时却正在其中的一架飞机上。为了解救妻子和在空中的众多客机，麦卡伦不得不再次进行艰苦的努力。",
+    "popularity": 19.327,
+    "poster_path": "/zSgL998DXaljsCmwQuwDM8Ak4rV.jpg",
+    "production_companies": [{
+      "id": 1073,
+      "logo_path": null,
+      "name": "Gordon Company",
+      "origin_country": ""
+    }, {
+      "id": 1885,
+      "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
+      "name": "Silver Pictures",
+      "origin_country": "US"
+    }, {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }],
+    "production_countries": [{
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "1990-07-02",
+    "revenue": 240031094,
+    "runtime": 124,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }, {
+      "iso_639_1": "es",
+      "name": "Español"
+    }],
+    "status": "Released",
+    "tagline": "",
+    "title": "虎胆龙威2",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 2895
+  },
+  "id": 1370,
+  "poster_url": "http://image.tmdb.org/t/p/w185/zSgL998DXaljsCmwQuwDM8Ak4rV.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/welkOTUozJ968u1KLx33vPpo7aS.jpg",
+    "belongs_to_collection": {
+      "backdrop_path": "/r7MMQenUURHhAVHFymtOb8AX4Bm.jpg",
+      "id": 115570,
+      "name": "星际迷航：下一代系列",
+      "poster_path": "/sddV6vaUC6x37icJS3opIXTXB07.jpg"
+    },
+    "budget": 46000000,
+    "genres": [{
+      "id": 878,
+      "name": "科幻"
+    }, {
+      "id": 28,
+      "name": "动作"
+    }, {
+      "id": 12,
+      "name": "冒险"
+    }, {
+      "id": 53,
+      "name": "惊悚"
+    }],
+    "homepage": "http://www.startrek.com/startrek/view/series/MOV/008/index.html",
+    "id": 199,
+    "imdb_id": "tt0117731",
+    "original_language": "en",
+    "original_title": "Star Trek: First Contact",
+    "overview": "　　本片是以地球人与瓦肯人的“第一类接触”事件为背景，将重心放在《星际迷航之下一代》电视系列剧中的大敌『博格人』。 　　企业号正在宇宙空间做例行巡航时，舰长皮卡特接到密电，称博格人已联合其他星系的力量，准备向地球发起攻击。由于舰长皮卡特曾受敌方俘虏并同化，星际舰队对其不很信任，故没有派其出战。皮卡特不顾命令，仍然参与战斗，之后企业号跟随博格人的时间漩涡回到21世纪，以阻挡博格人试图改变人类的外星发展史达到征服地球的企图。",
+    "popularity": 13.287,
+    "poster_path": "/qhVB8eUGwkdVvd8Fezk0AgcMPDH.jpg",
+    "production_companies": [{
+      "id": 76068,
+      "logo_path": null,
+      "name": "Digital Image Associates",
+      "origin_country": ""
+    }, {
+      "id": 4,
+      "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+      "name": "Paramount",
+      "origin_country": "US"
+    }],
+    "production_countries": [{
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "1996-11-21",
+    "revenue": 150000000,
+    "runtime": 111,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }],
+    "status": "Released",
+    "tagline": "",
+    "title": "星际迷航8：第一类接触",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 917
+  },
+  "id": 1356,
+  "poster_url": "http://image.tmdb.org/t/p/w185/qhVB8eUGwkdVvd8Fezk0AgcMPDH.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/nS0rEXPbkHI449SF6R4WUQvTVxE.jpg",
+    "belongs_to_collection": {
+      "backdrop_path": "/la0EhOrgVAiY8sf3ILz3wgoaNXH.jpg",
+      "id": 8537,
+      "name": "超人（系列）",
+      "poster_path": "/fgTdu62v1jjNDPh68V9TJZMgXbo.jpg"
+    },
+    "budget": 55000000,
+    "genres": [{
+      "id": 12,
+      "name": "冒险"
+    }, {
+      "id": 14,
+      "name": "奇幻"
+    }, {
+      "id": 878,
+      "name": "科幻"
+    }],
+    "homepage": "",
+    "id": 1924,
+    "imdb_id": "tt0078346",
+    "original_language": "en",
+    "original_title": "Superman",
+    "overview": "　　话说克利顿星球爆炸之前，超人父母将婴儿放入火箭中送到地球，他被一对农家夫妇收养，长大成为记者。当美国遭野心家企图毁灭时，他就跑进电话亭中穿上S型超人制服，变成挽救各种危机的超人。",
+    "popularity": 17.211,
+    "poster_path": "/n2DOECThGG7h7m5AjLi2Nuh23u1.jpg",
+    "production_companies": [{
+      "id": 51861,
+      "logo_path": null,
+      "name": "Dovemead Films",
+      "origin_country": ""
+    }, {
+      "id": 51862,
+      "logo_path": null,
+      "name": "Film Export A.G.",
+      "origin_country": ""
+    }, {
+      "id": 174,
+      "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }],
+    "production_countries": [{
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }, {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "1978-12-13",
+    "revenue": 300218018,
+    "runtime": 143,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }],
+    "status": "Released",
+    "tagline": "",
+    "title": "超人",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1792
+  },
+  "id": 2640,
+  "poster_url": "http://image.tmdb.org/t/p/w185/n2DOECThGG7h7m5AjLi2Nuh23u1.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/Fp3piEuHXxKnPBO5R0Wj4wjZHg.jpg",
+    "belongs_to_collection": {
+      "backdrop_path": "/bRm2DEgUiYciDw3myHuYFInD7la.jpg",
+      "id": 2344,
+      "name": "黑客帝国（系列）",
+      "poster_path": "/lh4aGpd3U9rm9B8Oqr6CUgQLtZL.jpg"
+    },
+    "budget": 150000000,
+    "genres": [{
+      "id": 12,
+      "name": "冒险"
+    }, {
+      "id": 28,
+      "name": "动作"
+    }, {
+      "id": 53,
+      "name": "惊悚"
+    }, {
+      "id": 878,
+      "name": "科幻"
+    }],
+    "homepage": "",
+    "id": 604,
+    "imdb_id": "tt0234215",
+    "original_language": "en",
+    "original_title": "The Matrix Reloaded",
+    "overview": "上一部结尾，尼奥（基奴李维斯 饰）终于意识到自己的能力和使命，中弹复活后，变成了无所不能的“救世主”，他和女友崔妮蒂（凯莉·安·摩丝 饰），舰长墨菲斯（劳伦斯·菲什伯恩 饰）回到了人类的基地锡安，受到人们的热烈欢迎。此时，“母体”决定先下手为强，派出了两万五千只电子乌贼攻击锡安基地；墨菲斯、尼奥和崔妮蒂则再次进入“母体”，寻找“制钥者”，准备从内部破坏；而本该被尼奥消灭的特勤史密斯似乎出了点问题，脱离了“母体”的控制，拥有可怕的复制能力，阻碍尼奥他们的行动....",
+    "popularity": 17.957,
+    "poster_path": "/ezIurBz2fdUc68d98Fp9dRf5ihv.jpg",
+    "production_companies": [{
+      "id": 375,
+      "logo_path": null,
+      "name": "Heineken Branded Entertainment",
+      "origin_country": ""
+    }, {
+      "id": 79,
+      "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+      "name": "Village Roadshow Pictures",
+      "origin_country": "US"
+    }, {
+      "id": 1885,
+      "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
+      "name": "Silver Pictures",
+      "origin_country": "US"
+    }, {
+      "id": 172,
+      "logo_path": null,
+      "name": "NPV Entertainment",
+      "origin_country": ""
+    }, {
+      "id": 174,
+      "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }],
+    "production_countries": [{
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }, {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "2003-05-15",
+    "revenue": 738599701,
+    "runtime": 138,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }],
+    "status": "Released",
+    "tagline": "解放你的思想",
+    "title": "黑客帝国2：重装上阵",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 5519
+  },
+  "id": 6365,
+  "poster_url": "http://image.tmdb.org/t/p/w185/ezIurBz2fdUc68d98Fp9dRf5ihv.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/kQYBOmJHSUzxeY7VnUXo4t4WIl7.jpg",
+    "belongs_to_collection": {
+      "backdrop_path": "/mPf6vo6hAzftf8qRS4qbwRVBBkJ.jpg",
+      "id": 359005,
+      "name": "唐人街杰克（系列）",
+      "poster_path": "/wvj9K13G7Jla8BbTt5A6oV0vxuF.jpg"
+    },
+    "budget": 6000000,
+    "genres": [{
+      "id": 80,
+      "name": "犯罪"
+    }, {
+      "id": 18,
+      "name": "剧情"
+    }, {
+      "id": 9648,
+      "name": "悬疑"
+    }, {
+      "id": 53,
+      "name": "惊悚"
+    }],
+    "homepage": "",
+    "id": 829,
+    "imdb_id": "tt0071315",
+    "original_language": "en",
+    "original_title": "Chinatown",
+    "overview": "　　40年代的洛山矶唐人街，警员杰克（杰克•尼科尔森 Jack Nicholson 饰）因不满这里的黑暗，辞职当起了私家侦探。这天，一个自称莫拉雷太太的女子请杰克调查丈夫的外遇，杰克欣然接受。杰克发现莫拉雷原来是当地水利总工程师，正在为兴建水坝问题和当地农民争执。随后有人给了杰克一些证明莫拉雷偷情的照片，隔天早上真正的莫拉雷太太却找上门来要求杰克停止调查莫拉雷。\r 　　事情变得越来越迷离，杰克决心追查下去。岂料不久，莫拉雷死在了自家的水池！当地警察认为他死于自杀，机敏的杰克感觉事情越来越不简单。在他调查的过程中，令人难以置信的真相接连浮出水面……",
+    "popularity": 10.747,
+    "poster_path": "/2imWh1W3HRdKTCfmzWC9MlmYrn4.jpg",
+    "production_companies": [{
+      "id": 4,
+      "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+      "name": "Paramount",
+      "origin_country": "US"
+    }, {
+      "id": 6226,
+      "logo_path": null,
+      "name": "Penthouse",
+      "origin_country": ""
+    }, {
+      "id": 10208,
+      "logo_path": null,
+      "name": "Long Road Productions",
+      "origin_country": ""
+    }],
+    "production_countries": [{
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "1974-06-20",
+    "revenue": 30000000,
+    "runtime": 130,
+    "spoken_languages": [{
+      "iso_639_1": "es",
+      "name": "Español"
+    }, {
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }, {
+      "iso_639_1": "en",
+      "name": "English"
+    }],
+    "status": "Released",
+    "tagline": "",
+    "title": "唐人街",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 1680
+  },
+  "id": 1252,
+  "poster_url": "http://image.tmdb.org/t/p/w185/2imWh1W3HRdKTCfmzWC9MlmYrn4.jpg"
+}, {
+  "detail": {
+    "adult": false,
+    "backdrop_path": "/gYsG0HDxFtdhC7MiMxirjogwtf2.jpg",
+    "belongs_to_collection": {
+      "backdrop_path": "/wfnMt6LGqYHcNyOfsuusw5lX3bL.jpg",
+      "id": 1241,
+      "name": "哈利·波特（系列）",
+      "poster_path": "/eVPs2Y0LyvTLZn6AP5Z6O2rtiGB.jpg"
+    },
+    "budget": 250000000,
+    "genres": [{
+      "id": 12,
+      "name": "冒险"
+    }, {
+      "id": 14,
+      "name": "奇幻"
+    }, {
+      "id": 10751,
+      "name": "家庭"
+    }],
+    "homepage": "http://harrypotter.warnerbros.com/harrypotterandthehalf-bloodprince/dvd/index.html",
+    "id": 767,
+    "imdb_id": "tt0417741",
+    "original_language": "en",
+    "original_title": "Harry Potter and the Half-Blood Prince",
+    "overview": "这一集中，食死徒开始肆无忌惮横行于麻瓜和魔法两个世界中，霍格沃茨内忧外患，危机重重。邓不利多（迈克尔·甘本 Michael Gambon 饰）带着哈利（丹尼尔·雷德克里夫 Daniel Radcliffe 饰）辗转找到隐居多年的霍拉斯·斯拉格霍恩，请他出山接替斯内普（艾伦 ·里克曼 Alan Rickman 饰）担任魔药学的老师。霍拉斯曾经教授过无数优秀的学生，而汤姆·里德尔——伏地魔——正是他最出色的一名弟子。邓不利多深信霍拉斯保有伏地魔不死身的秘密，他希望哈利能够说服霍拉斯。  另一方面，德拉科·马尔福（汤姆·费尔顿 Tom Felton 饰）宣誓效忠伏地魔，他想方设法将食死徒引入霍格沃茨。而此时，罗恩（鲁伯特·格林特 Rupert Grint 饰）、赫敏（艾玛·沃特森 Emma Watson 饰）他们却还沉浸在青春的躁动中，全然不知黑暗正渐渐逼近……",
+    "popularity": 32.563,
+    "poster_path": "/eWJAwAbcqmdSGX03eFd4KdsIpuf.jpg",
+    "production_companies": [{
+      "id": 174,
+      "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }, {
+      "id": 437,
+      "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+      "name": "Heyday Films",
+      "origin_country": "GB"
+    }],
+    "production_countries": [{
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }, {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }],
+    "release_date": "2009-07-07",
+    "revenue": 933959197,
+    "runtime": 153,
+    "spoken_languages": [{
+      "iso_639_1": "en",
+      "name": "English"
+    }],
+    "status": "Released",
+    "tagline": "",
+    "title": "哈利·波特与混血王子",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 10153
+  },
+  "id": 69844,
+  "poster_url": "http://image.tmdb.org/t/p/w185/eWJAwAbcqmdSGX03eFd4KdsIpuf.jpg"
+}]

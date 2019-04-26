@@ -1,0 +1,10 @@
+.welcome {
+  padding-top: 150px;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.welcome .link {
+  font-size: 34px;
+  margin-top: 50px;
+}

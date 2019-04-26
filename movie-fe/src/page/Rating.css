@@ -9,3 +9,11 @@
   font-weight: bold;
   font-size: 16px;
 }
+
+.rating .btn {
+  margin-top: 60px;
+}
+
+.rating .change_btn {
+  margin-left: 15px;
+}

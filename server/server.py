@@ -1,22 +1,35 @@
-from flask import Flask
-from flask import request
-from flask import jsonify
+from flask import Flask, request, jsonify, render_template
 import random
+import time
+from concurrent import futures
 from movie import MovieSystem
 
-app = Flask(__name__)
+'''
+static_url_path:
+前端访问资源文件的前缀目录。默认是/static，就是前端必须这样访问：<img src="/static/img/mylogo.jpg" />
+我们改成 ''，就可以这样访问了：<img src="/img/mylogo.jpg" />。就达到前端从根目录访问的目的了。
+static_folder:
+后端存储资源文件的目录。默认是/static，就是指明你后端的资源文件，是放在<your project>/static/目录下，一般不需要改动。
+'''
+app = Flask(__name__, static_url_path='')
 
 movie_system = MovieSystem()
-
-@app.route('/')
-def hello_world():
-  return 'Hello World!'
 
 # 默认处理get请求
 @app.route('/movies')
 def get_movies():
   data = movie_system.get_random_movies()
   return jsonify(data)
+
+@app.route('/')
+def home():
+  return render_template('index.html')
+
+# 配合history模式
+@app.route('/<name>/')
+def hello(name):
+  return render_template('index.html')
+
 
 '''
   id: rating
@@ -96,6 +109,7 @@ def recommend_movies():
         index += 1
     return result
 
+  # 获取请求参数
   data = request.get_json(request.data)
   top_list = get_top_list(data, 5)
   top_list.sort(key=lambda x: x[1], reverse=True)
@@ -133,11 +147,20 @@ def recommend_movies():
       all_movies += temp
   
   print(all_movies)
-
-  res = []
+  
+  # 多线程请求movie详情
+  start = time.time()
+  res = [] 
+  executor = futures.ThreadPoolExecutor(len(all_movies))
   for movie_name in all_movies:
-    detail = movie_system.get_movie_detail(movie_name)
+    detail = executor.submit(movie_system.get_movie_detail, movie_name)
     res.append(detail)
+  futures.wait(res)
+  res = [ r.result() for r in res]
+
+  executor.shutdown()  # 销毁
+
+  print('time: ', time.time() - start)
 
   return jsonify(res)
 

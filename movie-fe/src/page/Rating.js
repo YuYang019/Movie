@@ -46,6 +46,10 @@ function Rating(props) {
     }
   }
 
+  function handleChange() {
+    window.location.reload()
+  }
+
   function handleRating(id, value) {
     rating = {
       ...rating,
@@ -55,7 +59,10 @@ function Rating(props) {
 
   return (
     <div className="rating">
-      <p className="tip">请先对以下15部电影进行评分，方便我们收集您的喜好</p>
+      <p className="tip">
+        请先对以下15部电影进行评分，方便我们收集您的喜好
+        <Button className="change_btn" icon="redo" onClick={handleChange}>换一批电影</Button>
+      </p>
       <div className="list">
         {
           movies ?
@@ -71,7 +78,7 @@ function Rating(props) {
           )) :
           null
         }
-        <Button onClick={handleClick}>开始推荐</Button>
+        <Button className="btn" type="primary" size="large" onClick={handleClick}>开始推荐</Button>
       </div>
     </div>
   )

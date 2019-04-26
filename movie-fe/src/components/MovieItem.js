@@ -1,9 +1,11 @@
 import React, { useState } from 'react'
-import { Rate } from 'antd'
+import { Rate, Tooltip } from 'antd'
 import './MovieItem.css'
 
 function getGenres(genres) {
   let result = ''
+
+  if (!genres) return ''
   
   for (let i = 0; i < genres.length; i++) {
     const g = genres[i]
@@ -52,7 +54,9 @@ function MovieItem(props) {
         <p className="genres">
           { getGenres(detail.genres) }
         </p>
-        <p className="overview">{ detail.overview }</p>
+        <Tooltip title={ detail.overview }>
+          <p className="overview">{ detail.overview }</p>
+        </Tooltip>
         {
           useRating ?
           (

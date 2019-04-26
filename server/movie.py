@@ -4,6 +4,8 @@
 import pandas as pd
 import numpy as np
 import random
+import time
+from concurrent import futures
 from surprise import SVD, KNNBaseline
 
 from CF.CFModel import CFModel
@@ -36,8 +38,7 @@ def _init_system(model='svd'):
   return cf_system
 
 # 获取排序后的评分次数大于阈值的所有电影
-def _get_sorted_rating_count(threshold=50):
-  threshold = 50
+def _get_sorted_rating_count(threshold=30):
   movie_data = _df_data.merge(_df_id_name_table, on='movieId')
   rating_count = pd.DataFrame(movie_data.groupby(['movieId', 'title'])['rating'].mean())
   rating_count['count'] = pd.DataFrame(movie_data.groupby(['movieId', 'title'])['rating'].count())
@@ -67,6 +68,17 @@ class MovieSystem:
   
     tmdb_id = _get_tmdb_id(movie_id)
     movie_detail = self.tmbd_poster.get_movie_detail(tmdb_id)
+
+    # 找不到资源
+    if 'status_code' in movie_detail:
+      if movie_detail['status_code'] == 34:
+        return {
+          'id': int(movie_id),
+          'poster_url': '',
+          'detail': {
+            'title': name_or_id
+          }
+        }
     
     dict = {}
     dict['id'] = int(movie_id)
@@ -86,11 +98,22 @@ class MovieSystem:
     # or use pandas.DataFrame.sample(n)
     selected_rows = random.sample(range(rows_num - 1), k)
 
+    print('get random movie')
+
+    start = time.time()
+
+    # 多线程请求
+    executor = futures.ThreadPoolExecutor(k)
     for i in selected_rows:
       row = rating_count.iloc[i]
       id = row.name[0]
-      detail = self.get_movie_detail(id)
+      detail = executor.submit(self.get_movie_detail, id)
       res.append(detail)
+    futures.wait(res)
+    print('time: ', time.time() - start)
+    res = [ r.result() for r in res]
+
+    executor.shutdown()  # 销毁
 
     return res
   

@@ -1,0 +1,6 @@
+flask
+gunicorn
+gevent
+pandas
+surprise
+requests
